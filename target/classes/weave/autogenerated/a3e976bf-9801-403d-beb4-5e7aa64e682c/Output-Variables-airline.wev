@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_a3e976bf_9801_403d_beb4_5e7aa64e682c_Output_Variables_airline = Any
+
